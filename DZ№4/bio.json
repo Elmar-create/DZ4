@@ -1,0 +1,11 @@
+{
+    "name": "Elmar",
+    "age": 19,
+    "profession": "Student",
+    "hobbies": [
+        "Programming",
+        "Games",
+        "Music"
+    ],
+    "about": "I am learning JavaScript and web development."
+}
